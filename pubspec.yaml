@@ -1,6 +1,6 @@
 name: flutter_ios_ringtone_player
-description: The purpose of this plugin is to play iOS system sound.
-version: 0.0.2
+description: The purpose of this plugin is to play iOS system sound. It can be used to play ringtone, alarm, notification, etc.
+version: 0.0.3
 repository: https://github.com/hadrienm/flutter_ios_ringtone_player
 
 environment:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -67,6 +67,3 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
-
-platforms:
-  ios:
