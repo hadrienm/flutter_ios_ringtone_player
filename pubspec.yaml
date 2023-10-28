@@ -1,6 +1,6 @@
 name: flutter_ios_ringtone_player
 description: The purpose of this plugin is to play iOS system sound.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/hadrienm/flutter_ios_ringtone_player
 
 environment:
