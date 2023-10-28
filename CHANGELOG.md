@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Update dependencies, and improve the description of the plugin
+
+## 0.0.4
+
+* change sdk version
